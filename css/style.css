@@ -1,0 +1,17 @@
+.box {
+    background-color: brown;
+    font-size: 36px;
+    /* border-color: black;
+    border-style: solid;
+    border-width: 2px; */
+    border: 2px solid black;
+    padding: 10px; /* alla riktningar */
+    /* padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 15px;
+    padding-left: 20px; */
+    /* padding: 5px 10px 15px 20px; Alla riktningar som klockan */
+    padding: 30px 50px; /* Först vertikal riktning, sen horisentell riktning*/
+    /* margin: 10px; */
+    margin: 10px 50px; /* Avståndet runtomkring, vertikal + horisontell riktning*/
+}
